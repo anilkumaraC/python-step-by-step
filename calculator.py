@@ -6,7 +6,7 @@ import sys
 
 # Functions to apply basic arithmetic
 # operations on 2 numbers 
-# Each func, takes 2 numbers as input
+# Each function, takes 2 numbers as input
 
 add = lambda a, b: a + b 
 subtract = lambda a, b: a - b 
