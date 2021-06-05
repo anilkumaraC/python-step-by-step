@@ -6,7 +6,6 @@ import math
 import sys
 
 # Perimeter
-# or sum of span of all sides of figure number
 
 # perimeter of square f(s) = 4 * s
 # where s is the side of square
